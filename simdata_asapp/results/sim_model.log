@@ -1,0 +1,18 @@
+2024-01-09 19:44:57 INFO     Creating asap data... 
+sample :sim
+number_of_selected_genes :0
+
+2024-01-09 19:45:01 INFO     Completed asap data.
+2024-01-09 19:45:01 INFO     Creating asap object... 
+data_size :20000
+number_batches :1
+
+2024-01-09 19:46:06 INFO     Running leiden cluster....
+2024-01-09 19:46:06 INFO     resolution: 0.5
+2024-01-09 19:46:06 INFO     k: 15
+2024-01-09 19:46:06 INFO     method: fuzzy_conn
+2024-01-09 19:46:15 INFO     Running umap embedding....
+2024-01-09 19:46:15 INFO     min_dist: 0.1
+2024-01-09 19:46:15 INFO     n_neighbors: 15
+2024-01-09 19:46:15 INFO     distance: euclidean
+2024-01-09 19:46:18 INFO     Fontsize 0.00 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt

@@ -1,0 +1,72 @@
+2024-01-16 11:06:10 INFO     Creating data... 
+sample :sim
+number_of_selected_genes :910
+
+2024-01-16 11:06:12 INFO     Completed create data.
+2024-01-16 11:06:13 INFO     Creating  object... 
+data_mem_size :10000
+
+2024-01-16 11:06:13 INFO     layers[3250, 50]
+2024-01-16 11:06:13 INFO     nmfNET(
+  (nmflist): ModuleList(
+    (0): nmfl()
+  )
+)
+2024-01-16 11:06:13 INFO     loading sparse data on...
+cpu
+2024-01-16 11:06:18 INFO     ====> Epoch: 0 Average loss: 13.5364
+2024-01-16 11:07:13 INFO     ====> Epoch: 10 Average loss: 9.7715
+2024-01-16 11:08:10 INFO     ====> Epoch: 20 Average loss: 7.5739
+2024-01-16 11:09:06 INFO     ====> Epoch: 30 Average loss: 6.4686
+2024-01-16 11:10:02 INFO     ====> Epoch: 40 Average loss: 6.1646
+2024-01-16 11:10:59 INFO     ====> Epoch: 50 Average loss: 6.1629
+2024-01-16 11:11:54 INFO     ====> Epoch: 60 Average loss: 5.1760
+2024-01-16 11:12:49 INFO     ====> Epoch: 70 Average loss: 4.6274
+2024-01-16 11:13:43 INFO     ====> Epoch: 80 Average loss: 4.4076
+2024-01-16 11:14:38 INFO     ====> Epoch: 90 Average loss: 4.4574
+2024-01-16 11:15:32 INFO     ====> Epoch: 100 Average loss: 4.2380
+2024-01-16 11:16:26 INFO     ====> Epoch: 110 Average loss: 4.2990
+2024-01-16 11:17:20 INFO     ====> Epoch: 120 Average loss: 4.2641
+2024-01-16 11:18:14 INFO     ====> Epoch: 130 Average loss: 3.7916
+2024-01-16 11:19:07 INFO     ====> Epoch: 140 Average loss: 3.7519
+2024-01-16 11:20:01 INFO     ====> Epoch: 150 Average loss: 3.7638
+2024-01-16 11:20:54 INFO     ====> Epoch: 160 Average loss: 3.8169
+2024-01-16 11:21:48 INFO     ====> Epoch: 170 Average loss: 3.9079
+2024-01-16 11:22:42 INFO     ====> Epoch: 180 Average loss: 4.0366
+2024-01-16 11:23:34 INFO     ====> Epoch: 190 Average loss: 3.9453
+2024-01-16 11:24:28 INFO     ====> Epoch: 200 Average loss: 4.1063
+2024-01-16 11:25:22 INFO     ====> Epoch: 210 Average loss: 4.1065
+2024-01-16 11:26:16 INFO     ====> Epoch: 220 Average loss: 3.8985
+2024-01-16 11:27:10 INFO     ====> Epoch: 230 Average loss: 4.0715
+2024-01-16 11:28:04 INFO     ====> Epoch: 240 Average loss: 3.6472
+2024-01-16 11:29:00 INFO     ====> Epoch: 250 Average loss: 3.7492
+2024-01-16 11:29:56 INFO     ====> Epoch: 260 Average loss: 3.8756
+2024-01-16 11:30:51 INFO     ====> Epoch: 270 Average loss: 4.0252
+2024-01-16 11:31:46 INFO     ====> Epoch: 280 Average loss: 4.0757
+2024-01-16 11:32:40 INFO     ====> Epoch: 290 Average loss: 4.0715
+2024-01-16 11:33:34 INFO     ====> Epoch: 300 Average loss: 4.0640
+2024-01-16 11:34:27 INFO     ====> Epoch: 310 Average loss: 3.9639
+2024-01-16 11:35:21 INFO     ====> Epoch: 320 Average loss: 3.7166
+2024-01-16 11:36:13 INFO     ====> Epoch: 330 Average loss: 3.8475
+2024-01-16 11:37:07 INFO     ====> Epoch: 340 Average loss: 3.9991
+2024-01-16 11:38:01 INFO     ====> Epoch: 350 Average loss: 3.8550
+2024-01-16 11:38:55 INFO     ====> Epoch: 360 Average loss: 4.0077
+2024-01-16 11:39:49 INFO     ====> Epoch: 370 Average loss: 3.3429
+2024-01-16 11:40:42 INFO     ====> Epoch: 380 Average loss: 3.4223
+2024-01-16 11:41:35 INFO     ====> Epoch: 390 Average loss: 3.5176
+2024-01-16 11:42:29 INFO     ====> Epoch: 400 Average loss: 3.6311
+2024-01-16 11:43:23 INFO     ====> Epoch: 410 Average loss: 3.7669
+2024-01-16 11:44:17 INFO     ====> Epoch: 420 Average loss: 3.9308
+2024-01-16 11:45:11 INFO     ====> Epoch: 430 Average loss: 3.9829
+2024-01-16 11:46:04 INFO     ====> Epoch: 440 Average loss: 3.6972
+2024-01-16 11:46:58 INFO     ====> Epoch: 450 Average loss: 3.8339
+2024-01-16 11:47:52 INFO     ====> Epoch: 460 Average loss: 3.9901
+2024-01-16 11:48:46 INFO     ====> Epoch: 470 Average loss: 3.6681
+2024-01-16 11:49:39 INFO     ====> Epoch: 480 Average loss: 3.8169
+2024-01-16 11:50:33 INFO     ====> Epoch: 490 Average loss: 3.9966
+2024-01-16 11:51:27 INFO     ====> Epoch: 500 Average loss: 12.5666
+2024-01-16 11:52:21 INFO     ====> Epoch: 510 Average loss: 14.2726
+2024-01-16 11:53:15 INFO     ====> Epoch: 520 Average loss: 16.7286
+2024-01-16 11:54:08 INFO     ====> Epoch: 530 Average loss: 22.2449
+2024-01-16 11:55:02 INFO     ====> Epoch: 540 Average loss: 25.0063
+2024-01-16 11:55:57 INFO     ====> Epoch: 550 Average loss: 21.3455
