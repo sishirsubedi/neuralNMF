@@ -31,7 +31,7 @@ class factorization(torch.autograd.Function):
             grad_theta = calc_grad_A(grad_output, theta.data, output, X.data)
         return grad_X, grad_theta, None
     
-def calculate_beta(theta,X,mode='pmf'):
+def calculate_beta(theta,X,mode='lsq'):
     X = X.numpy()
     theta = theta.numpy()
     m = X.shape[0]

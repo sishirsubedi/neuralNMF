@@ -1,0 +1,36 @@
+
+# Ignore all data files
+/data/*
+/database/
+/results/*.h5
+/results/*.h5ad
+/results/*.h5nnmf
+
+
+*.txt
+*.csv
+*.tsv
+*.pkl
+*.npz
+*.gz
+*.torch
+*.h5
+*.h5nnmf
+
+*.log
+*.sh
+*.yaml
+*.rmd
+
+nohup.out
+
+
+io.py
+scratch.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+/build
+

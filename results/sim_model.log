@@ -1,0 +1,46 @@
+2025-06-12 16:03:38 INFO     Creating data... 
+sample :sim
+number_of_selected_genes :0
+
+2025-06-12 16:03:38 INFO     Completed create data.
+2025-06-12 16:03:38 INFO     Creating  object... 
+data_mem_size :10000
+
+2025-06-12 16:03:38 INFO     layers[1000, 20, 10]
+2025-06-12 16:03:38 INFO     nmfNET(
+  (nmflist): ModuleList(
+    (0-1): 2 x nmfl()
+  )
+)
+2025-06-12 16:03:38 INFO     loading sparse data on...
+cpu
+2025-06-12 16:03:44 INFO     ====> Epoch: 0 Average loss: 789.1042
+2025-06-12 16:04:24 INFO     ====> Epoch: 10 Average loss: 453.5129
+2025-06-12 16:05:04 INFO     ====> Epoch: 20 Average loss: 196.5849
+2025-06-12 16:05:48 INFO     ====> Epoch: 30 Average loss: 159.0274
+2025-06-12 16:06:34 INFO     ====> Epoch: 40 Average loss: 153.8351
+2025-06-12 16:07:22 INFO     ====> Epoch: 50 Average loss: 149.4193
+2025-06-12 16:08:12 INFO     ====> Epoch: 60 Average loss: 147.8734
+2025-06-12 16:09:05 INFO     ====> Epoch: 70 Average loss: 147.0618
+2025-06-12 16:09:58 INFO     ====> Epoch: 80 Average loss: 147.0759
+2025-06-12 16:10:50 INFO     ====> Epoch: 90 Average loss: 145.3801
+2025-06-12 16:11:43 INFO     ====> Epoch: 100 Average loss: 144.2380
+2025-06-12 16:12:34 INFO     ====> Epoch: 110 Average loss: 140.1865
+2025-06-12 16:13:25 INFO     ====> Epoch: 120 Average loss: 125.4791
+2025-06-12 16:14:15 INFO     ====> Epoch: 130 Average loss: 109.2846
+2025-06-12 16:15:07 INFO     ====> Epoch: 140 Average loss: 101.6300
+2025-06-12 16:15:58 INFO     ====> Epoch: 150 Average loss: 98.0025
+2025-06-12 16:16:52 INFO     ====> Epoch: 160 Average loss: 96.3857
+2025-06-12 16:17:45 INFO     ====> Epoch: 170 Average loss: 95.6863
+2025-06-12 16:18:39 INFO     ====> Epoch: 180 Average loss: 95.3432
+2025-06-12 16:19:34 INFO     ====> Epoch: 190 Average loss: 95.1312
+2025-06-12 16:20:30 INFO     ====> Epoch: 200 Average loss: 94.9654
+2025-06-12 16:21:25 INFO     ====> Epoch: 210 Average loss: 94.8150
+2025-06-12 16:22:21 INFO     ====> Epoch: 220 Average loss: 94.6697
+2025-06-12 16:23:17 INFO     ====> Epoch: 230 Average loss: 94.5205
+2025-06-12 16:24:15 INFO     ====> Epoch: 240 Average loss: 94.3608
+2025-06-12 16:25:10 INFO     ====> Epoch: 250 Average loss: 94.1850
+2025-06-12 16:26:05 INFO     ====> Epoch: 260 Average loss: 93.9815
+2025-06-12 16:27:01 INFO     ====> Epoch: 270 Average loss: 93.7266
+2025-06-12 16:27:55 INFO     ====> Epoch: 280 Average loss: 93.3480
+2025-06-12 16:28:49 INFO     ====> Epoch: 290 Average loss: 92.6441
